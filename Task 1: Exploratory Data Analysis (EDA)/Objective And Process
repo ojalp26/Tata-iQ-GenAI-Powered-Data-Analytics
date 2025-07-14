@@ -1,0 +1,29 @@
+Task 1: Exploratory Data Analysis (EDA)
+
+Problem Statement:
+Geldium Finance, a digital lending and credit services provider, is experiencing an increasing credit card delinquency rate. This means more customers are failing to make payments beyond the 30-day threshold. Currently, their collections strategy relies heavily on manual processes and historical trends which lack precision and are inefficient. As part of Tata iQ’s AI Transformation team, our job was to help Geldium move towards a data-driven, AI-powered approach to predict delinquency risks.
+Before any predictive modeling or AI intervention can be developed, we must first assess the quality and structure of Geldium’s data. Poor data quality (missing values, inconsistent patterns, biased variables) would lead to unreliable models and poor business decisions. Therefore, the first task is to perform thorough Exploratory Data Analysis (EDA).
+
+What We Needed to Do:
+Review Geldium’s customer dataset to identify any missing data, inconsistencies, or anomalies.
+Analyze key variables that may influence delinquency such as income, credit utilization, and payment history.
+Identify potential risk indicators in the data to inform later predictive modeling work.
+Document findings in a clear, structured EDA summary report for business stakeholders.
+
+How We Did It:
+We used GenAI tools like ChatGPT, Gemini Pro, and GenSpark to assist in summarizing the dataset, identifying missing values, suggesting imputation strategies, and generating insights.
+Conducted a detailed EDA on 500 customer records, reviewing variables like Age, Income, Credit Score, Credit Utilization, Missed Payments, and Employment Status.
+Addressed missing data through:
+Median imputation for Income (skewed data).
+Mean imputation for Loan Balance (normally distributed).
+Forward fill or interpolation for Credit Score (minimal missingness).
+Identified key risk indicators through correlation analysis and behavioral pattern recognition:
+Business Credit Card holders had the highest delinquency rates.
+Los Angeles residents and unemployed customers showed elevated risks.
+Produced a structured EDA Report summarizing dataset quality, missing values, patterns, and early risk indicators.
+
+Why This Is Important:
+EDA is the foundation for any reliable AI-driven predictive modeling. Without high-quality data, any insights or models built would be misleading and ineffective. Understanding data quality, patterns, and potential biases early allows us to create more accurate, fair, and explainable AI solutions in later stages. This task also helps Geldium’s Collections team see where existing processes may be missing key risk signals.
+
+
+
