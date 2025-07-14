@@ -1,0 +1,34 @@
+Task 4: Designing an AI-Powered Collections System (Agentic AI Framework)
+
+Problem Statement:
+After identifying at-risk customer segments and recommending targeted actions in Task 3, the next challenge was to design a scalable, AI-powered collections system. Geldium wanted to move from manual interventions to an automated, intelligent, and adaptive system that could continuously manage delinquency risks in real-time.
+The problem was to create a high-level strategy (not technical architecture) for an AI system that would operate responsibly, maintain compliance, and ensure fairness while handling customer accounts autonomously.
+
+What We Needed to Do:
+--> Develop a conceptual framework for an autonomous AI-powered collections system for Geldium.
+--> Explain how the system would work from data ingestion to action, learning, and feedback loops.
+--> Clearly define the role of agentic AI — what the AI would handle autonomously vs. where human oversight is necessary.
+--> Outline ethical guardrails: fairness, explainability, regulatory compliance.
+--> Illustrate the expected business impact in both quantitative KPIs and qualitative customer outcomes.
+
+How We Did It:
+--> Proposed a 4-layer framework:
+        1) Data Pipeline: Real-time customer data ingestion (payments, credit activity, demographics).
+        2) Decision Engine: AI models + business rules determine the next action.
+        3) Action Layer: Personalized communications (SMS, email), offers (deferral plans), or escalations.
+        4) Learning Loop: Continuous feedback to improve decisions over time.
+--> Deined the role of agentic AI:
+        * AI autonomously handles routine outreach, prioritizes cases, adapts based on outcomes.
+        * Human oversight required for escalations, disputes, regulatory edge cases.
+--> Proposed Responsible AI Guardrails:
+        * Explainability (SHAP, clear model rationales)
+        * Fairness audits (bias detection across demographics)
+        * Human-in-the-loop governance
+        * Compliance alignment (ECOA, GDPR, FCA, FCRA)
+--> Outlined expected impacts:
+        * KPIs: Reduced delinquency rates, operational cost savings, faster resolution times.
+        * Customer outcomes: Fairer treatment, transparency, better financial support, maintained trust.
+--> Prepared all of this as a professional PowerPoint deck structured for executive stakeholders.
+
+Why This Is Important:
+This task addressed how Geldium can sustainably scale AI in collections while protecting customers and aligning with regulations. Moving beyond predictive insights to agentic, adaptive AI systems allows proactive, personalized, and fair management of delinquency risks at scale. It transforms collections from reactive to proactive, ethical, and data-driven.
