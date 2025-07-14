@@ -19,11 +19,11 @@ The project was structured in four stages:
 ---
 
 ## 📂 Repository Structure
-├── Task-1-EDA-and-Data-Quality/
-├── Task-2-Predictive-Modeling/
-├── Task-3-Business-Recommendations/
-├── Task-4-AI-Collections-System/
-└── Prompts-Used/
+├── Task-1-EDA-and-Data-Quality
+├── Task-2-Predictive-Modeling
+├── Task-3-Business-Recommendations
+├── Task-4-AI-Collections-System
+└── Prompts-Used
 
 ---
 
@@ -57,6 +57,58 @@ The project was structured in four stages:
 - Stakeholder Communication
 - AI-Powered System Design (Collections Strategy)
 - Prompt Engineering for AI Tools 
+
+---
+# 🏦 AI-Powered Delinquency Risk Analysis & Collections Strategy  
+### A GenAI-Powered Predictive Analytics Project for Financial Services  
+
+## 📌 Project Overview  
+This repository showcases an end-to-end AI-powered credit risk and collections strategy designed for Geldium Finance, using predictive analytics and agentic AI principles to identify, mitigate, and manage customer delinquency risks.  
+
+The project is structured across four tasks:  
+1️⃣ Exploratory Data Analysis (EDA)  
+2️⃣ Predictive Modeling (No-Code, GenAI Assisted)  
+3️⃣ Business Recommendations for Collections Strategy  
+4️⃣ AI-Powered Autonomous Collections System Design  
+
+
+
+---
+
+## 🔄 Solution Overview  
+
+## 🔍 Key Findings  
+- **Business Credit Card Holders**: 21.3% delinquency rate — the highest-risk segment.  
+- **Geographic Risk**: Los Angeles customers show elevated delinquency rates.  
+- **Employment Status**: Unemployed customers face higher delinquency risk.  
+- **Key Risk Drivers**: Income, Credit Score, Debt-to-Income Ratio.
+
+---
+
+## 🎯 Recommendations  
+- Prioritize proactive outreach to Business Credit Card holders.  
+- Implement AI-driven collections workflows to automate and personalize engagement.  
+- Establish strong AI guardrails for fairness, transparency, and compliance.  
+
+---
+
+### ✅ AI-Powered Collections System Workflow  
+![AI Collections Workflow](files/3da83232-02a5-451e-b771-ba45022a2770.png)
+
+**Core Components**:
+- Data Inputs → AI Processing → Decision Engine → Action Layer → Learning Loop  
+- Automates outreach, tailors interventions, and adapts over time.
+
+---
+
+### ✅ Business Impact & Responsible AI Guardrails  
+![Responsible AI & Business Impact](files/0c6c6352-f935-45ba-9ef0-6fc28fcf0496.png)
+
+**Expected Impact**:
+- 35% cost reduction  
+- 75% processing speed improvement  
+- 42% accuracy improvement  
+- Enhanced fairness, transparency, and regulatory compliance  
 
 ---
 
