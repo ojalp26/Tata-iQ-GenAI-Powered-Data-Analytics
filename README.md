@@ -24,7 +24,7 @@ The project was structured in four stages:
 ├──> Task 2: Predictive Modeling for Delinquency Risk   
 ├──> Task 3: Translating Predictive Insights into Business Recommendations  
 ├──> Task 4: Designing an AI-Powered Collections System (Agentic AI Framework)  
-└──> Prompts-Used
+└──> Prompts Used
 
 ---
 
@@ -118,3 +118,5 @@ The project was structured in four stages:
 ## 📄 Certification
 
 Check out my certification: [Tata iQ GenAI-Powered Data Analytics - Forage Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_zYiNgXfTRZLhujkzm_1752262100115_completion_certificate.pdf)
+
+---
