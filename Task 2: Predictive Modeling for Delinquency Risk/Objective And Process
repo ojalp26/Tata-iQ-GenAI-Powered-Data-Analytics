@@ -1,1 +1,27 @@
+Task 2: Predictive Modeling for Delinquency Risk
 
+Problem Statement:
+--> After analyzing the dataset in Task 1, the next challenge was to predict which customers are most likely to become delinquent. Geldium’s existing collections strategy lacked precision because it depended on historical trends and manual case handling rather than forward-looking risk predictions. Without a reliable predictive model, the collections team cannot proactively prioritize outreach to high-risk customers.
+--> The problem, therefore, was to design an AI-driven approach to forecast customer delinquency using Geldium’s available customer and financial data — enabling the team to act early and more effectively.
+
+What We Needed to Do:
+--> Develop a predictive modeling framework for delinquency risk using GenAI tools (ChatGPT, Gemini Pro, GenSpark).
+--> Select the most appropriate modeling approach (e.g., Logistic Regression, Decision Trees, Neural Networks) based on accuracy, explainability, and business fit.
+--> Create a plan to evaluate the model’s performance (accuracy, precision, recall, AUC, fairness).
+--> Ensure ethical AI principles were considered: bias detection, explainability, and fairness.
+
+How We Did It:
+--> Used GenAI tools to generate model logic, suggest frameworks, and provide sample code structures for predictive modeling without coding from scratch.
+--> Selected an ensemble approach combining:
+          * Random Forest (70%) for capturing non-linear patterns and better accuracy.
+          * Logistic Regression (30%) for transparency, simplicity, and interpretability.
+          * Choose this hybrid approach to balance performance with explainability, aligning with financial industry standards for transparent decision-making.
+--> Key features selected for prediction included:
+          * Income, Credit Score, Debt-to-Income Ratio, Credit Utilization, Missed Payments, Employment Status, Location, and Credit Card Type.
+--> Outlined an evaluation strategy focusing on:
+          * Metrics: Accuracy, Precision, Recall, F1 Score, AUC-ROC, Confusion Matrix.
+          * Ethical safeguards: Bias audits, fairness checks across demographics, human oversight.
+--> Structured the full predictive modeling plan into a detailed Word document for stakeholder review.
+
+Why This Is Important:
+This task bridges the gap between raw data and actionable AI insights. A predictive model allows Geldium’s Collections team to prioritize interventions more effectively, reduce delinquency, and improve financial outcomes. It also ensures the AI-driven recommendations are accurate, fair, explainable, and aligned with industry compliance standards. By outlining a clear evaluation and fairness framework, we reduce risks associated with AI-driven financial decision-making.
