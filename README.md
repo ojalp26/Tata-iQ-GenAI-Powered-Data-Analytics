@@ -20,15 +20,11 @@ The project was structured in four stages:
 
 ## 📂 Repository Structure
 
-├── Task-1-EDA-and-Data-Quality
-
-├── Task-2-Predictive-Modeling
-
-├── Task-3-Business-Recommendations
-
-├── Task-4-AI-Collections-System
-
-└── Prompts-Used
+|__ Task-1-EDA-and-Data-Quality
+|__ Task-2-Predictive-Modeling
+|__ Task-3-Business-Recommendations
+|__ Task-4-AI-Collections-System
+|__ Prompts-Used
 
 ---
 
