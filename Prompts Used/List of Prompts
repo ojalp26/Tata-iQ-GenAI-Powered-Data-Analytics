@@ -1,0 +1,45 @@
+📑 Comprehensive List of Prompts 
+
+
+🔷 EDA & Data Quality
+-- Summarize key patterns, outliers, and missing values in this dataset. Highlight any fields that might present problems for modeling delinquency.
+-- Identify the top 3 variables most likely to predict delinquency based on this dataset. Provide brief reasoning.
+-- Identify missing values in this dataset and recommend the best imputation strategy based on industry best practices.
+-- Analyze the correlation between customer income and delinquency risk, summarizing key findings in simple terms.
+-- Analyze trends in late payments and identify the top 3 risk factors associated with delinquency.
+
+
+🔷 Predictive Modeling
+-- Based on this dataset, which predictive modeling techniques are best suited for identifying customers likely to miss payments? Explain why.
+-- Generate a logistic regression model framework using this dataset to predict customer delinquency. Provide an explanation of each step, ensuring outputs are reviewed and refined for accuracy and fairness.
+-- Evaluate the performance of this predictive model using precision and recall. Identify any biases in the predictions.
+-- Evaluate the performance of my credit risk model using precision, recall, and F1 score. Suggest improvements if needed.
+-- Explain how logistic regression can be used to predict credit card delinquency. Generate a simple model using income, debt-to-income ratio, and payment history.
+-- Generate a decision tree model to predict delinquency risk based on income, credit utilization, and missed payments. Explain how the model determines risk categories.
+-- Create a basic neural network model for predicting delinquency risk. Compare its strengths and weaknesses against decision trees and logistic regression.
+
+
+🔷 Business Recommendations
+-- Turn this insight — 'High credit utilization increases delinquency' — into a SMART business recommendation.
+-- Draft an executive summary explaining why this recommendation will reduce delinquency and align with business objectives.
+-- Summarize top predictors of customer delinquency based on dataset analysis.
+-- Identify customer segments with the highest delinquency risk and explain why.
+
+
+🔷 Responsible AI / Ethical AI / Bias / Explainability
+-- Check for bias in this credit risk model. Are certain customer groups unfairly predicted as high risk?
+-- Explain why this model predicted high delinquency risk for a specific customer.
+-- Assess fairness in this model’s predictions. Does it disproportionately flag certain customer demographics as high risk?
+-- List two fairness risks for a financial risk prediction model and suggest mitigation strategies.
+-- How would you explain AI model predictions in plain language to non-technical stakeholders?
+-- Suggest a set of metrics to evaluate a financial risk prediction model for fairness, bias, and accuracy.
+-- Provide examples of bias mitigation techniques in predictive modeling for credit risk.
+
+
+🔷 AI-Powered System Design / Agentic AI
+-- Outline a predictive modeling pipeline to forecast credit delinquency, from feature selection to model evaluation.
+-- Suggest 2 modeling options (simple and complex) for predicting delinquency, and recommend one.
+-- Explain how the delinquency risk model transforms customer input variables into a final risk prediction, from data ingestion to prediction output.
+-- Generate sample code or clear pseudocode for building a credit risk prediction model, using relevant features like income, credit utilization, and missed payments.
+-- Analyze this model’s performance and suggest improvements to increase accuracy and reduce bias.
+-- Generate a logistic regression model using this dataset to predict customer delinquency. Include preprocessing steps and evaluation metrics.
