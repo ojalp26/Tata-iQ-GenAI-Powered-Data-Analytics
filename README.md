@@ -58,19 +58,6 @@ The project was structured in four stages:
 - AI-Powered System Design (Collections Strategy)
 - Prompt Engineering for AI Tools 
 
----
-# 🏦 AI-Powered Delinquency Risk Analysis & Collections Strategy  
-### A GenAI-Powered Predictive Analytics Project for Financial Services  
-
-## 📌 Project Overview  
-This repository showcases an end-to-end AI-powered credit risk and collections strategy designed for Geldium Finance, using predictive analytics and agentic AI principles to identify, mitigate, and manage customer delinquency risks.  
-
-The project is structured across four tasks:  
-1️⃣ Exploratory Data Analysis (EDA)  
-2️⃣ Predictive Modeling (No-Code, GenAI Assisted)  
-3️⃣ Business Recommendations for Collections Strategy  
-4️⃣ AI-Powered Autonomous Collections System Design  
-
 
 
 ---
