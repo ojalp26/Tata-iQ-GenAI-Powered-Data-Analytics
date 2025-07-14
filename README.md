@@ -19,10 +19,15 @@ The project was structured in four stages:
 ---
 
 ## 📂 Repository Structure
+
 ├── Task-1-EDA-and-Data-Quality
+
 ├── Task-2-Predictive-Modeling
+
 ├── Task-3-Business-Recommendations
+
 ├── Task-4-AI-Collections-System
+
 └── Prompts-Used
 
 ---
@@ -80,7 +85,9 @@ The project was structured in four stages:
 ---
 
 ### ✅ AI-Powered Collections System Workflow  
-![AI Collections Workflow](files/3da83232-02a5-451e-b771-ba45022a2770.png)
+
+<img width="1217" height="811" alt="image" src="https://github.com/user-attachments/assets/319e2ca6-0634-4821-bcef-8364c3d763a6" />
+
 
 **Core Components**:
 - Data Inputs → AI Processing → Decision Engine → Action Layer → Learning Loop  
@@ -89,7 +96,9 @@ The project was structured in four stages:
 ---
 
 ### ✅ Business Impact & Responsible AI Guardrails  
-![Responsible AI & Business Impact](files/0c6c6352-f935-45ba-9ef0-6fc28fcf0496.png)
+
+<img width="1660" height="1115" alt="image" src="https://github.com/user-attachments/assets/e1d3f42e-e678-4ca2-a393-6af87ab9d209" />
+
 
 **Expected Impact**:
 - 35% cost reduction  
@@ -97,5 +106,9 @@ The project was structured in four stages:
 - 42% accuracy improvement  
 - Enhanced fairness, transparency, and regulatory compliance  
 
+
 ---
 
+## 📄 Certification
+
+Check out my certification: [Tata iQ GenAI-Powered Data Analytics - Forage Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_zYiNgXfTRZLhujkzm_1752262100115_completion_certificate.pdf)
